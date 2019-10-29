@@ -1,0 +1,28 @@
+.box-left {
+    width: 75px ;
+    height: 500px;
+    background-color: rgb(161, 161, 172);
+    float: left;
+}
+
+.box-right {
+    width: 75px;
+    height: 500px;
+    background-color: rgb(161, 161, 172);
+    margin-left: 925px;
+}
+
+.box-top {
+    width: 1000px;
+    height: 175px;
+    background-color: rgb(55, 49, 49);
+}
+
+.box-bottom {
+    width: 850px;
+    height: 50px;
+    margin-top: 450px;
+    margin-left: 75px;
+    background-color: black;
+    position: absolute;
+}
